@@ -1,3 +1,5 @@
+R Data Analysis Project with Linear Regression Modeling
+
 Goal of this project is to investigate what attributes make a movie popular. Therefore, factors which are associated with the higher audience scores for movies are investigated.
 
 ### The Research Question:
